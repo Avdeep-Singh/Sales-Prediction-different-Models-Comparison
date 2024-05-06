@@ -1,4 +1,4 @@
-# Sales Prediction: All Models Comparison
+# Sales Prediction: Different Models Comparison
 
 This project investigates various machine learning models for predicting sales performance based on a synthetic dataset containing customer information. It aims to identify the model that yields the most accurate predictions for lead conversion (converted vs. unconverted).
 
